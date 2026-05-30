@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whole-new-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Whole New World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-new-world/) |
+| **Get License** | [Secure Licensing Rights for Whole New World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-new-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I saw the embers waking in your eyes tonight
+> Tracing the shadows where our worlds collide
+> I feel the static pull me toward your light
+> This gravity is something I won't fight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
