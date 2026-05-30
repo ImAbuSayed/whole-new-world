@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whole-new-world/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Whole New World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-new-world/) |
+| **Get License** | [Commercial Licensing for Whole New World](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whole-new-world/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4b56fa1147bda205ddc689265ac07fcdce52393d3965a9a313f7cf5e7b6ac2f8` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
